@@ -167,7 +167,7 @@ export default function Hero() {
                     data-anime="targets: >*; translateY: [24, 0]; opacity: [0, 1]; easing: spring(1, 80, 10, 0); duration: 450; delay: anime.stagger(100, {start: 200});"
                   >
                     <h1 className="h2 sm:h1 lg:display-6 xl:display-4 mt-4 sm:mt-0">
-                      Easy project managment{" "}
+                      Easy project managments{" "}
                       <br className="d-none sm:d-block" />
                       of any complexity
                     </h1>

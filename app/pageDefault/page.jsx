@@ -5,7 +5,7 @@ export const metadata = {
   title:
     "Home || Lexend - Full-featured, professional-looking software, saas and startup nextjs template.",
   description:
-    "Lexend - Full-featured, professional-looking software, saas and startup nextjs template.",
+    "Lexend - Full-featured, professional-looking software, saas and startup nextjs website",
 };
 export default function page() {
   return (
